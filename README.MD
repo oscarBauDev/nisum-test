@@ -19,7 +19,7 @@ Para correr la aplicación debes cumplir con los siguientes requerimientos:
 
 ### ejecutar la aplicación
 
-- Para iniciar la aplicación puedes ejecutar la clase principal desde cualquier IDE.
+- Para iniciar la aplicación puedes ejecutar la clase principal **AppApplication.java** desde cualquier IDE.
 
 ### Endpoints
 
